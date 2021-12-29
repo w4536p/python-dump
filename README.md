@@ -1,2 +1,2 @@
 # python-dump
-dumb of bad python ive made
+dump of bad python ive made
